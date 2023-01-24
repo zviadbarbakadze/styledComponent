@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/styledComponent/static/css/main.bbdb57fd.css",
+    "main.js": "/styledComponent/static/js/main.bcf421be.js",
+    "index.html": "/styledComponent/index.html",
+    "main.bbdb57fd.css.map": "/styledComponent/static/css/main.bbdb57fd.css.map",
+    "main.bcf421be.js.map": "/styledComponent/static/js/main.bcf421be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbdb57fd.css",
+    "static/js/main.bcf421be.js"
+  ]
+}
